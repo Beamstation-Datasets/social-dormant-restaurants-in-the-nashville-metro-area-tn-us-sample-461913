@@ -1,6 +1,6 @@
 # Social Dormant Restaurants in the Nashville Metro Area, TN, US
 
-> Free BeamStation sample export with 51 rows and masked direct-contact fields.
+> Free BeamStation sample export with 55 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `461913` |
 | Location | Nashville-Davidson--Murfreesboro--Franklin, TN |
 | Category | Restaurants |
-| Full dataset size | 515 records |
-| Free sample size | 51 records (9.9%) |
-| Last export | 2026-04-07T19:16:29.268597+00:00 |
+| Full dataset size | 550 records |
+| Free sample size | 55 records (10.0%) |
+| Last export | 2026-04-15T00:24:00.202346+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/social-dormant-restaurants-in-the-nashville-metro-area-tn-us-sample-461913/releases/download/sample-latest/beamstation_461913_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
