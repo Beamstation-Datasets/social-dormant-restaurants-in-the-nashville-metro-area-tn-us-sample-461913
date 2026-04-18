@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ed7782c1-d27a-49c7-8560-b5dd966dd59c",
+  "export_job_id": "2313b060-0c76-421b-8836-c3b7f9426720",
   "id_short": 461913,
-  "published_at": "2026-04-14T07:11:35Z",
+  "published_at": "2026-04-18T19:10:12Z",
   "repo_name": "social-dormant-restaurants-in-the-nashville-metro-area-tn-us-sample-461913",
   "sample_asset_name": "beamstation_461913_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/461913/beamstation_461913_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
-  "sample_records": 51,
-  "sample_sha256": "c811778605e154930cf2a6a52673d573ea8585cf4a8e1cd9aae43d38bd35c6cd",
-  "sample_size_bytes": 228452,
-  "total_records": 515
+  "sample_records": 55,
+  "sample_sha256": "d1e750f7d29a0c8c42bbe856339f58d51aa9badefe08dfd55ea5c56b70daea57",
+  "sample_size_bytes": 241918,
+  "total_records": 550
 }
