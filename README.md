@@ -9,9 +9,9 @@
 | Dataset ID | `461913` |
 | Location | Nashville-Davidson--Murfreesboro--Franklin, TN |
 | Category | Restaurants |
-| Full dataset size | 963 records |
-| Free sample size | 96 records (9.97%) |
-| Last export | 2026-04-22T04:27:45.542623+00:00 |
+| Full dataset size | 961 records |
+| Free sample size | 96 records (9.99%) |
+| Last export | 2026-04-29T06:55:03.416554+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/social-dormant-restaurants-in-the-nashville-metro-area-tn-us-sample-461913/releases/download/sample-latest/beamstation_461913_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
